@@ -1,0 +1,10 @@
+NightmareTris 1.0
+(c)2014 Giacomo Drago (giacomo@giacomodrago.com)
+
+NightmareTris is a Tetris-like game with a particular feature: it always tries to choose
+the worst-fitting tetromino to make it as annoying to play as possible.
+
+The background image has been downloaded from http://wall.alphacoders.com/big.php?i=333859
+and is copyrighted to its owner.
+The font used in the game has been downloaded from http://www.dafont.com/it/friday13.font
+and is copyrighted to its owner.
