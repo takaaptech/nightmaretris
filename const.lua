@@ -2,11 +2,11 @@ local const = {
     
     -- Resource paths
     BG_IMAGE_PATH = 'img/bgimage.png',
-    FONT_PATH = 'fonts/friday.ttf',
+    FONT_PATH = 'fonts/mrsmonster.ttf',
     TETROMINOS_DIR = 'tetrominos',
     
     -- Sizes
-    TITLE_FONT_SIZE = 34,
+    TITLE_FONT_SIZE = 36,
     STOPPED_FONT_SIZE = 45,
     PAUSED_FONT_SIZE = 60,
     GAMEOVER_FONT_SIZE = 64,
